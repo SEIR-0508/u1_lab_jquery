@@ -14,9 +14,9 @@ This lab **is not a deliverable**.
 
 You'll be using a typical, real-world project setup for this lab...
 
-1. Move to your `code` folder:  `cd ~/code`
+1. Navigate to today's folder, fork and clone this repo
 
-2. Create a folder named `my-dev-skills-lab` and `cd` into it.
+2. `cd` into it.
 
 3. Create the following folders/files:
 	- `index.html`
